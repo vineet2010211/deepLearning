@@ -27,7 +27,7 @@ y_data = np.reshape(y_data, (n_samples,1))
 X = tf.placeholder(tf.float32, shape = (batch_size,1))
 y = tf.placeholder(tf.float32, shape = (batch_size,1))
 
-print("Declared variabels")
+#print("Declared variabels")
 
 # Define variables to be learned 
 with tf.variable_scope("linear_regression"):
@@ -56,6 +56,7 @@ with tf.Session() as sess:
 	print(sess.run(W))
 	print(sess.run(b))
 	yP = sess.run(X_data*W + b) 
+	## Sanity check on the shape of the parameters coming out of the graph
 	print(yP.shape)
 	print(X_data.shape)
 	plt.scatter(X_data, yP, color = 'red')
