@@ -14,4 +14,5 @@ with tf.Session() as sess:
 
 
 
-## Constants , Variables, placeholders (feed in the data in the network)
+## Constants: baises , Variables model parameters which are usually updated in the network
+## , placeholders (feed in the data in the network) feed_dict = {x:[],y:[]}
