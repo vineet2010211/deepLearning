@@ -6,3 +6,6 @@ http://www.asimovinstitute.org/analyzing-deep-learning-tools-music/ 6-Deep Learn
 
 
 https://www.nervanasys.com/demystifying-deep-reinforcement-learning/ Demistifying Deep Reinforcement Learning
+
+
+http://rll.berkeley.edu/deeprlcourse/ Deep Reinforcement Learning Course: Berkely
