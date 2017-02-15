@@ -12,3 +12,5 @@ http://rll.berkeley.edu/deeprlcourse/ Deep Reinforcement Learning Course: Berkel
 
 
 https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks CS294-129 Designing, Visualizing and Understanding Deep Neural Networks
+
+https://www.ics.uci.edu/~pjsadows/notes.pdf Notes on backpropogation in softmax logostic classifier
